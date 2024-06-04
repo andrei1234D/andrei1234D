@@ -1,5 +1,3 @@
-1
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I am Balas Marius Andrei
 
 ---
