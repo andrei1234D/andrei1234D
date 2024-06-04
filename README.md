@@ -40,7 +40,7 @@ I'm a Full Stack Developer, using React for FrontEnd and node.js with Express.js
 ### CV
 
 - Being Updated
-- <!--:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf-->
+- <!--:paperclip: [My CV](https://github.com/andrei1234D/andrei1234D/blob/main/Balas_Marius_Andrei.pdf-->
 <!--
 **andrei1234D
 /andrei1234D
