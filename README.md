@@ -2,7 +2,7 @@
 
 ---
 
-I'm an Automation Engineer and self-taught full-stack developer. I designed, built, and shipped **AlphaSignalizer**, an AI-powered financial signal platform, entirely on my own — the machine learning pipeline, backtesting framework, PostgreSQL-backed web app, and Stripe billing, from first commit to commercial launch. I also work with Siemens TIA Portal on industrial control systems, and trained in React, Node.js, and MongoDB through two development internships.
+I'm an Automation Engineer and self-taught full-stack developer. I designed, built, and shipped **[AlphaSignalizer](https://alphasignalizer.com)**, an AI-powered financial signal platform, entirely on my own — the machine learning pipeline, backtesting framework, PostgreSQL-backed web app, and Stripe billing, from first commit to commercial launch. I also work with Siemens TIA Portal on industrial control systems, and trained in React, Node.js, and MongoDB through two development internships.
 
 <!-- <p>
   <b>#alwaysbestriving</b>
